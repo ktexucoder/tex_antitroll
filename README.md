@@ -1,10 +1,12 @@
 ---
 
-# TEX\_antitroll — Redesigned from KNXR Anti-Troll
+# Tex\_antitroll — Redesigned from KNXR Anti-Troll
 
-### TEX\_antitroll — Hasil Redesign dari KNXR Anti-Troll
+### Tex\_antitroll — Hasil Redesain dari KNXR Anti-Troll
 
 ![KNXR Anti-Troll](https://i.imgur.com/ugH2X8D.png)
+
+🔗 **Original Script:** [KNXR Anti-Troll on GitHub](https://github.com/ZerXGIT/knxr-antitroll)
 
 ---
 
@@ -23,8 +25,8 @@
 
 ## 🛠️ Redesigned Version / Versi Redesain
 
-This is a redesigned version of the original **KNXR Anti-Troll**, now improved and republished as **tex\_antitroll**.
-Ini adalah versi redesain dari **KNXR Anti-Troll** yang telah ditingkatkan dan dirilis ulang sebagai **tex\_antitroll**.
+This script is a redesigned and improved version of the original [**KNXR Anti-Troll**](https://github.com/ZerXGIT/knxr-antitroll), now republished under the name **tex\_antitroll**.
+Script ini adalah hasil redesain dan peningkatan dari [**KNXR Anti-Troll**](https://github.com/ZerXGIT/knxr-antitroll), yang kini dirilis ulang dengan nama **tex\_antitroll**.
 
 ---
 
