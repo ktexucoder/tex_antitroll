@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Font dan CSS -->
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Script -->
+    <script defer src="https://unpkg.com/alpinejs@3.10.4/dist/cdn.min.js"></script>
+    <script src="js/app.js" type="text/javascript"></script>
+
+    <title>endzone-</title>
+    <style>
+        ::-webkit-scrollbar {
+            display: none;
+        }
+    </style>
+</head>
+<body x-data="main()" x-init="listen()">
+    <div class="content" x-show="show" x-transition>
+        <div class="content-inner">
+            <div class="newPlayer">RESTRICTED</div>
+            <div class="description">
+                Sabar ya ajril, kamu masih keram jadi tidak bisa memukul dan menembak tunggu 
+                <span x-text="timeString"></span>
+            </div>
+
+            <!-- Timer dipindahkan ke sini -->
+            <div class="timer">
+                <div class="timer-box">
+                    <i class="fas fa-clock"></i> 
+                    <span x-text="`${days} Hari`"></span>
+                </div>
+                <div class="timer-box">
+                    <i class="fas fa-clock"></i> 
+                    <span x-text="`${hours} Jam`"></span>
+                </div>
+                <div class="timer-box">
+                    <i class="fas fa-clock"></i> 
+                    <span x-text="`${minutes} Menit`"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
