@@ -1,6 +1,12 @@
-# TEX Anti-Troll System / Sistem Anti-Troll TEX
+---
 
-![TEX Anti-Troll](https://i.imgur.com/ugH2X8D.png)
+# TEX\_antitroll — Redesigned from KNXR Anti-Troll
+
+### TEX\_antitroll — Hasil Redesign dari KNXR Anti-Troll
+
+![KNXR Anti-Troll](https://i.imgur.com/ugH2X8D.png)
+
+---
 
 ## 💡 Features / Fitur
 
@@ -12,6 +18,15 @@
   Menonaktifkan aksi drive-by
 * ✊ Disable punching & punch damage
   Menonaktifkan pukulan dan kerusakan dari pukulan
+
+---
+
+## 🛠️ Redesigned Version / Versi Redesain
+
+This is a redesigned version of the original **KNXR Anti-Troll**, now improved and republished as **tex\_antitroll**.
+Ini adalah versi redesain dari **KNXR Anti-Troll** yang telah ditingkatkan dan dirilis ulang sebagai **tex\_antitroll**.
+
+---
 
 ## ⚙️ Installation / Instalasi
 
