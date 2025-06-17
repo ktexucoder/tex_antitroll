@@ -23,5 +23,3 @@
    Nikmati pengalaman bermain tanpa gangguan troll!
 
 ---
-
-Jika ingin versi lebih singkat atau ingin ditambahkan ikon server, Discord, atau credits, saya bisa bantu juga.
