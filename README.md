@@ -6,7 +6,7 @@
 
 ![KNXR Anti-Troll](https://i.imgur.com/ugH2X8D.png)
 
-(https://imgur.com/a/OxbNjCp)
+(https://i.imgur.com/a/OxbNjCp)
 
 🔗 **Original Script:** [KNXR Anti-Troll on GitHub](https://github.com/ZerXGIT/knxr-antitroll)
 
