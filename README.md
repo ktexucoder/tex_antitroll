@@ -4,9 +4,7 @@
 
 ### Tex\_antitroll — Hasil Redesain dari KNXR Anti-Troll
 
-![KNXR Anti-Troll](https://i.imgur.com/ugH2X8D.png)
-
-(https://i.imgur.com/a/OxbNjCp.png)
+![KNXR Anti-Troll](https://i.imgur.com/OxbNjCp.png)
 
 🔗 **Original Script:** [KNXR Anti-Troll on GitHub](https://github.com/ZerXGIT/knxr-antitroll)
 
